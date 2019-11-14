@@ -1,2 +1,1 @@
-document.write('javascript');
-window.alert('hai');
+documentdocument.getElementById("test").innerHTML = "hello"
